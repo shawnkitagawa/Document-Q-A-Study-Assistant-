@@ -5,7 +5,6 @@ import chromadb
 from datetime import datetime
 
 load_dotenv()
-chroma_client = chromadb.Client()
 
 OPEN_API_KEY = os.getenv("OPEN_API_KEY")
 EMBEDDING_MODEL = "text-embedding-3-small"
