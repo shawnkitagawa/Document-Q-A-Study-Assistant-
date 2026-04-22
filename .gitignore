@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+data/raw/
+data/vectorstore/
+data/ingridients/foodb_2020_04_07_json/
+app/technique_plans/
+technique_plans/
+.env
+.venv/
